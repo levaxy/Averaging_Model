@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Averaging_Model", "Averaging_Model.vcxproj", "{45790FBD-AB1A-47AF-A04E-9A5029A1D561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Debug|x64.ActiveCfg = Debug|x64
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Debug|x64.Build.0 = Debug|x64
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Debug|x86.ActiveCfg = Debug|Win32
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Debug|x86.Build.0 = Debug|Win32
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Release|x64.ActiveCfg = Release|x64
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Release|x64.Build.0 = Release|x64
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Release|x86.ActiveCfg = Release|Win32
+		{45790FBD-AB1A-47AF-A04E-9A5029A1D561}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5195B12B-3A51-4C50-9D96-D6C50B442F5E}
+	EndGlobalSection
+EndGlobal
